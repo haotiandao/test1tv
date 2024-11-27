@@ -52,10 +52,10 @@ url_blacklist = [
 
 announcements = [
     {
-       
+       "channel": "",
         "entries": [
-         
-          
+            {"name": "", "url": "", "logo": ""},
+            {"name": "", "url": "", "logo": ""},
             {"name": "更新日期", "url": "", "logo": ""},
             {"name": None, "url": "", "logo": ""}
         ]

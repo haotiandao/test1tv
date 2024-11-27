@@ -54,8 +54,10 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "更新日期"},
-            {"name": None}
+          {"name": "请阅读", "url": "", "logo": ""},
+            {"name": "yuanzl77.github.io", "url": "", "logo": ""},
+            {"name": "更新日期", "url": "", "logo": ""},
+            {"name": None, "url": "", "logo": ""}
         ]
     }
 ]

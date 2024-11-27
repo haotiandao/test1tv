@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="请阅读" tvg-logo="" group-title="公告",请阅读
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-id="1" tvg-name="yuanzl77.github.io" tvg-logo="" group-title="公告",yuanzl77.github.io
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="" group-title="公告",更新日期
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="" group-title="",更新日期
 
-#EXTINF:-1 tvg-id="1" tvg-name="2024-11-27" tvg-logo="" group-title="公告",2024-11-27
+#EXTINF:-1 tvg-id="1" tvg-name="2024-11-27" tvg-logo="" group-title="",2024-11-27
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$LR•IPV4『线路1』

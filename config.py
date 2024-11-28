@@ -2,14 +2,16 @@ ip_version_priority = "ipv4"
 
 source_urls = [
 
+"https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
+"https://live.zbds.top/tv/iptv4.m3u",
 "https://raw.githubusercontent.com/haotiandao/testTV/master/guding.txt",
+"https://raw.githubusercontent.com/vbskycn/iptv/master/tv/ipv4.txt",
 "https://ghproxy.net/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt",
 "https://ghproxy.net/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt",
 "https://iptv.burningc4.com/TV-IPV4.m3u",
 "https://live.iptv365.org/live.m3u",
 "https://live.iptv365.org/live.txt",
 "http://175.178.251.183:6689/tv.txt",
-"https://live.zbds.top/tv/iptv4.m3u",
 "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
 "https://live.fanmingming.com/tv/m3u/itv.m3u",
 "https://live.zhoujie218.top/tv/iptv6.m3u",
@@ -33,7 +35,6 @@ source_urls = [
 "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
 "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
 "http://home.jundie.top:81/Cat/tv/live.txt",
-"https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
 "https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt",
 "https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
 "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
